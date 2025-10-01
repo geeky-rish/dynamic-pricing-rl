@@ -374,7 +374,7 @@ If you use this code for research, please cite:
   title={Dynamic Pricing with Deep Reinforcement Learning},
   author={ML Research Team},
   year={2025},
-  url={https://github.com/yourusername/dynamic-pricing-rl}
+  url={https://github.com/geeky-rish/dynamic-pricing-rl}
 }
 ```
 
@@ -420,7 +420,7 @@ Contributions welcome! Please:
 
 For questions or issues:
 - Open a GitHub issue
-- Contact: ml-research@example.com
+- Contact: rishipkulkarni@gmail.com
 
 ## 🎓 Acknowledgments
 

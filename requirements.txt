@@ -1,0 +1,22 @@
+# Dynamic Pricing with Deep RL - Requirements
+# Python 3.8+
+
+# Core Dependencies
+numpy>=1.21.0
+gymnasium>=0.29.0
+
+# Deep RL Framework
+stable-baselines3>=2.0.0
+torch>=2.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Optional: For better performance
+#tensorboard>=2.10.0
+
+# Development (optional)
+#pytest>=7.0.0
+#black>=22.0.0
+#flake8>=4.0.0

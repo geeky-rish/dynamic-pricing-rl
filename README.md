@@ -420,7 +420,7 @@ Contributions welcome! Please:
 
 For questions or issues:
 - Open a GitHub issue
-- Contact: rishipkulkarni@gmail.com
+- Contact: rishipkulkarni@gmail.com , amaanalidoddamani05@gmail.com
 
 ## 🎓 Acknowledgments
 
